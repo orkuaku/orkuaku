@@ -1,16 +1,14 @@
-## Hi there 👋
+## привет!
 
-<!--
-**orkuaku/orkuaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Aku and im currently an IT highschool student
 
-Here are some ideas to get you started:
+- I'm from Slovakia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I study programming, and some other stuff.
+
+- My main focus right now is learning Cybersecurity and eventually study Cybersecurity in college ~~But thats not happening anytime soon~~
+
+- I use Kali Linux for messing around and testing on my own devices :P
+- Im not an expert at cybersecurity, just a beginner trying to learn
+
+- Im mostly not the front face of projects, just a person who is pretty creative with ideas and design.
